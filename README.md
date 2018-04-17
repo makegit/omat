@@ -2,9 +2,13 @@ Listaan tähän omia projekteja ja paikkoja missä olen omia jutuja muuaalla nä
 Itselläni on omistuksessa noin 40 domain nimeä jotenka joita käytän satunnaisesti.
 Tähän kertään vähän missä kaikkialla minulla näppini pelissä:
 
-Haaga-helia käyttäjäni kotisivut: http://myy.haaga-helia.fi/~a1503032/MarkusWebsite/
-Ilmotta minun tämän hetkinen blogini: https://ilmotta.fi/
-Tollasta lomake syttemiä tehteiin viimeksyksillä toi layout on minun tekemiä: http://ttempo.ovh
+Haaga-helia käyttäjäni kotisivut: http://myy.haaga-helia.fi/~a1503032/MarkusWebsite/  
+
+
+Ilmotta minun tämän hetkinen blogini: https://ilmotta.fi/  
+
+
+Tollasta lomake syttemiä tehteiin viimeksyksillä toi layout on minun tekemiä: http://ttempo.ovh  
 
 Nimikin sen kertoo tätä vakavissaan kannata ottaa:
 http://vituton.fi,
