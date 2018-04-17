@@ -10,6 +10,8 @@ Ilmotta minun tämän hetkinen blogini: https://ilmotta.fi/
 
 Tollasta lomake syttemiä tehteiin viimeksyksillä toi layout on minun tekemiä: http://ttempo.ovh  
 
+Tänä keväänä olen tässä puuhallu koulussa tollasta :https://github.com/makegit/julkaiseteksti
+
 Nimikin sen kertoo tätä vakavissaan kannata ottaa:
 http://vituton.fi,
 http://vituttaako.com,
